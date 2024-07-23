@@ -1,0 +1,2 @@
+running migration
+npx sequelize-cli migration:generate --name init-migration
